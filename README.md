@@ -9,9 +9,6 @@ The dataset that you will be wrangling (and analyzing and visualizing) is the tw
 
 WeRateDogs [downloaded their Twitter archive](https://support.twitter.com/articles/20170160) and sent it to Udacity via email exclusively for you to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. More on this soon.
 
-![WeRateDogs banner](./Wrangle and Analyze Data_files/dog-rates-social.jpg)
-
-_Image via [Boston Magazine](http://www.bostonmagazine.com/arts-entertainment/blog/2017/04/18/dog-rates-mit/)_
 
 ### Project Steps Overview
 
